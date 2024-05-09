@@ -201,7 +201,7 @@
 }
 
 .theme-dark .wordmark__5b8c9::before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ N I G G E R S";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -933,7 +933,7 @@ span:not(.spinner-item) {
 
 .unreadPill__1b4fa {
   background-color: var(--background-shading);
-  color: #fb5454;
+  color: #FF7E7E;
   font-size: 12px;
   letter-spacing: 20px;
   right: 50%;
