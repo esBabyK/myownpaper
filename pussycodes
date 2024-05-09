@@ -670,7 +670,7 @@ span[class="inner-26JK4f"] > * {
 
 /*welcome text*/
 .theme-dark body:before {
-  content: "Greetings " var(--user-name) "!";
+  content: "Bienvenido " var(--user-name) "!";
   z-index: 1000000000000000000000000;
   color: #fff;
   background-color: #0000007a;
@@ -871,7 +871,7 @@ span:not(.spinner-item) {
 }
 
 #app-mount .info__755e1 .line_cdcacc:last-child:after {
-  content: "Chillax " var(--cl-appearance) " 🎮";
+  content: "Niggers " var(--cl-appearance) " 🎮";
   display: block;
 }
 
