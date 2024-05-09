@@ -124,7 +124,7 @@
 /*menu blur*/
 .theme-dark .menu__088f7 {
   /*Main class*/
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .menu__088f7::before,
